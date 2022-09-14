@@ -1,1 +1,1 @@
-shit is real
+ a program that prints _putchar
